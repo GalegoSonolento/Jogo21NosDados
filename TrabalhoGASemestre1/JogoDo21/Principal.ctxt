@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=Principal
+comment0.text=Deixar\ essa\ classe\ pequena\ assim\ foi\ dif\u00EDcil,\ era\ muito\ tentador\ sempre\ fazer\ algum\ menu\ ou\ imagem\ direto\ aqui\ para\ acelerar\ o\ processo.\ \r\nMas\ \u00E9\ s\u00F3\ isso\ que\ ela\ faz,\ cria\ o\ jogo,\ abre\ a\ tela\ inicial,\ e\ permite\ que\ ele\ rode,\ fora\ isso\ ela\ n\u00E3o\ faz\ mais\ nada.
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2
