@@ -13,7 +13,8 @@ public class Dados {
     // valor aleatório para ele (entre 1 e 6)
     public int roladaDado(){
         int min = 1;
-        int range = (lado - min) + 1;
+        int max = 6;
+        int range = (max - min) + 1;
         lado = (int)(Math.random() * range) + min;
         return lado;
     }

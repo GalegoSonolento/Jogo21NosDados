@@ -125,6 +125,8 @@ public class Jogo{
        uma pargunta de continue após cada rolada de dados, mas ela ficou bugada depois de um tempo (tive problemas de loop infinito). 
        Enfim, Aqui o jogador vai passar a maior parte do tempo dele.*/
     public void rodaJogo(){
+        player1.setPontos(0);
+        player2.setPontos(0);
         char decisao = 's';
         for (int i=1; i<=3; i++){
                     System.out.println("");
